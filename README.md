@@ -30,8 +30,9 @@ The objective of this project is to transform raw sales data into an interactive
 ## 📂 Project File
 
 - `project1.pbix` — Power BI dashboard file
-## Author
-Durgesh kumar yadav
 ## 👨‍💻 Author
 
-Durgesh Kumar Yadav
+Durgesh Kumar Yada
+## project preview
+![Power BI  Sales Dashboard]
+(screenshot%20%2830%29.png
